@@ -48,6 +48,7 @@ The software I plan to use: Unity, Excalidraw and Piskel. I would use Unity to m
 ## Non-Functional Requirements
 
 - **Performance**
+    - The game will deliver smooth, seamless transitions between different game screens. Character movement and actions will also be smooth and the different buttons that will be clicked will have good transitions between different screens.
 
 - **Usability**
 
