@@ -48,10 +48,13 @@ The software I plan to use: Unity, Excalidraw and Piskel. I would use Unity to m
 ## Non-Functional Requirements
 
 - **Performance**
-    - The game will deliver smooth, seamless transitions between different game screens. Character movement and actions will also be smooth and the different buttons that will be clicked will have good transitions between different screens.
-
+    - The game will deliver smooth, seamless transitions between different game screens and scenes, with minimal delay. Character movement and actions will also be smooth with almost no delay and the different buttons that will be clicked will provide good transitions between different scenes. 
 - **Usability**
-
+    - Some design features that I will include to ensure maximum usability are:
+    - *Consistent Layout*: Having a consistent layout will make sure that it will be easier for new players to learn how to play the game, as well as helping them get familiar with the game quicker. 
+    - *Evident Buttons*: By making the buttons very easy to see and differ from the background, the player will be able to easily determine which button to click, and to know which button will do what action, hence less confusion when playing the game. 
+    - *Easy Controls*: Having easy controls for the game will make it so much easier to play the game itself, maximising the satisfaction the players will feel when playing the game.
+    
 - **Reliability**
 
 - **Security**
