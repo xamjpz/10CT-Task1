@@ -54,9 +54,16 @@ The software I plan to use: Unity, Excalidraw and Piskel. I would use Unity to m
     - *Consistent Layout*: Having a consistent layout will make sure that it will be easier for new players to learn how to play the game, as well as helping them get familiar with the game quicker. 
     - *Evident Buttons*: By making the buttons very easy to see and differ from the background, the player will be able to easily determine which button to click, and to know which button will do what action, hence less confusion when playing the game. 
     - *Easy Controls*: Having easy controls for the game will make it so much easier to play the game itself, maximising the satisfaction the players will feel when playing the game.
-    
 - **Reliability**
-
+    - In order to ensure reliability, I will make sure to run consistent tests for each action of each character and button, making sure that whatever happens will move smoothly. Since this is mainly designed as a laptop/PC game, I will not have to test across different devices, and will just have to test between different screen sizes, which shouldn't be too much of a problem. 
 - **Security**
+    - The app will not be collecting any user data besides the gameplay of the player. The data will be stored locally on their device. 
 
-
+## Social, Ethical and Legal Issues 
+- **Social Impact**
+    - *Target Audience Considerations*: The targetted audience for this game will be teenagers and young adults, around 15-25 years old. There wont be many  accessibility considerations, as the controls for the game is designed to be very easy to learn and use, however the game might have difficult levels that will not account for the specific accessibility needs of other people. 
+    - *Potential Benefits*: My game will positively impact the community of the book, as the game is designed to hook players that are already interested in the book, and help them to enjoy the book even more through playing the game. After the players complete the game, there will be a message to share the book with their friends and to show them the game too, encouraging people to read the book and play the game.  
+    - *Potential Risks*: There are a few minor risks that are in the game. Some certain groups of people might be misrepresented, such as the KGB (Russians) and Germany, which are portrayed to be the villans in the book, but if you play as Svet Lana, the French and America will be portrayed as the villans. Furthermore, the game will be an oversimplifcation of the events in the book, and may include missleading information about the events of World War 2. 
+- **Ethical Responsibilities**
+    - *User Data & Privacy*: The prototype will only collect the data of the gameplay of each character, which will be stored locally on the file on the laptop/PC. No one else will have access to the file on their computer, only them. 
+    - *Represenetation & Inclusion*: The project will aim to represenet characters, themes, and ideas from the book. 
