@@ -70,6 +70,85 @@ The software I plan to use: Unity, Excalidraw and Piskel. I would use Unity to m
     - *Content Sensitivity*: Some topics in the book can be interpreted as controversial or sensitive, but that is also why some level of maturity is required to play, and read the book. The game will not exclude certain sensitive topics like Nazi Germany and Hitler as they are what the book is about, but will filter out any profanity and sexual references, ensuring that the game will only require the most necessary of controversial themes. 
 - **Legal Consideration**
     - *Copyright & Intellectual Property*: I won't be using any images or fan content for my game, however, there will be some quotes that I will use from the book. However, I will make sure to reference them to the book. All my assests will be of my own creation, however inspired by the description in the book. 
-    - *Terms of Use*: If i were to launch this game, it wouldn't be too necessary to add restricitons, but if I were to launch it, I would make sure to add some age restrictions. As stated before, this game will require some level of maturity, as the game will include some graphic and sensitive topics such as violence, death, and themes relating to World War 2. I also don't think there would be 
+    - *Terms of Use*: If i were to launch this game, it wouldn't be too necessary to add restricitons, but if I were to launch it, I would make sure to add some age restrictions. As stated before, this game will require some level of maturity, as the game will include some graphic and sensitive topics such as violence, death, and themes relating to World War 2. I also don't think there would be any legal regulations that would need to be applied. 
+
+    ## Researching and Planning
+ - **Gantt Chart**
+    ![alt text](image.png)
+ - **Research Existing UI's, PMI Chart**
+
+| UI Name | Plus | Minus | Implication | 
+| ----------- | ----------- | ---- | ---- |
+| Super Mario Bros | This game contains features that make it a good UI. More specifically, features like the movement of the character and straightforward objective of the game creates a simple way to tell the story and makes it really easy to understand the motives behind the character.  | However, although the sleek design of the game is good to some extent, I believe that there isn't enough variations in colors and textures within each level, and some of the features in the game like the obstacles are kind of repetitive, which inhibits the story telling of the game.  | In my game, I will be sure to include the simple, straightforward goals of each level, to make sure it can tell which chapter of the story that the character is in, but I will also make sure that there is more variations in colors, textures, and even gameplay to make it feel more exciting as there are multiple setting changes within the book.|
+| Tower of Destiny | In this game, the fast, minimalistic switch between scenes like in between levels and deaths make the game much more appealing as it feels much more fast paced and dramatic, whereas if the transitions were slower it would be much less exciting.  | Similar to super mario, the game is too repetivie. Although there is a variety of different obstacles, the objective stays the same and the stakes don't feel any higher, even if the obstacles and challenges do get higher. There is no sense of change in settings.  | In my game, I will include the fast transitions in between scenes like between different levels, and I will make sure that the scene and challenges get harder or more advanced as the game progresses. |
+| Prodigy | I particularly enjoy the UI of prodigy. This game consists of many different features that make the game very interesting and advanced, however, if the UI wasn't well designed, the game would be a pain to navigate. More specifically, the player inventory is sorted in a very organized manner which makes the whole game experience more enjoyable. | Unlike the Tower of Destiny, the transitions between different scenes, levels and even settings pages are very slow, with a lot of unnecessary animations which make the game very slow paced, which is very annoying.  | In my game, I will include very organized, well thought out settings, which will make the game very easy to navigate, and I will keep animations and transitions to a bare minimum as having unnecessary features will hinder the story telling of the game.  |
+
+ - **Research Software Options**
+
+ | Software Option | Plus | Minus | Implication |
+ | -- | -- | -- | -- |
+ | Figma | -- | -- | -- |
+ | Adobe XD | -- | -- | -- |
+ | Unity Game Design | -- | -- | -- |
+
+ - **Wireframes**
+ - **Feedback**
+    - *Usability*
+    - *Aesthetics*
+    - *Functionality*
+ - **Feedback Evaluation**
+
+ ## Producing and Implementing and Testing and Evaluating
+
+ - **Ongoing Evaluation**
+
+    - April:
+    ![alt text](image-5.png)
+    ![alt text](image-6.png)
+    During the month of April, most of my work consisted of the design of tilesheets and sprites. This took a very long time, especially during the holidays, because I wanted to make sure the game was as aesthetically pleasing and enjoyable as possible. I also wanted to make sure that the tilesheets were able to accurately represent and encapsualte the different settings that the character was present in the book, which considering the final product, was done very well. 
+
+    - May:
+    ![alt text](image-7.png)
+    ![alt text](image-8.png)
+    During the month of May, I was able to get the majority of my theory done. This is because my all my prototypes were created during this month. I also had to create some other sprites including the gun and the paper sprites. 
+
+ - **Prototype 1**
+    - *Prototype:*
+    ![alt text](image-3.png)
+    My first prototype of the game is the character movement. The progress of the movement was annoying and I did encounter problems with the animation. To solve this, I spent 45 minutes debugging, trying to figure out what went wrong, but I couldn't so I ended up just restarting, and I was able to do everything properly again, however I did not find out what went wrong the first time. 
+    - *Test:*
+    Testing the movement was simple, just moving the character around. Some feedback that I recieved included how poor the movement was. More speicifcally, how the character was too fast and felt as though there was no mass and gravity. At first, I had already changed some of the movememnt from the default settings, and I thought it was just fine, however after it was pointed out, it would make the gameplay much harder as it was quite hard to control the character. 
+    - *Evaluate:*
+    The evaluating process included changing each of the characters settings, kind of just playing around until I found something that felt right. In the end I adjusted it in such a way that made the character much slower, but with a much more realistic movement.  
+ - **Prototype 2**
+    - *Prototype:*
+    ![alt text](image-2.png)
+    My second prototype is the Splash Screen. This process was relatively straightforward, however I did encounter one problem, which was the creation of the background of the splashscreen. I did not take into consideration the fact that the tilesheets I had for the levels wouldn't match the splashscreen, so I had to frantically make a new tilesheet, which is also slightly pixelated which is annoying. Similarly, the title is also very pixelated and I don't know how to fix it. Regarding the functionality of the buttons, it works perfectly. 
+    - *Test:* There was only one test regarding the splashscreen because it worked first try. However, I did recieve some feedback concerning the colour of the buttons and the title. Originally I made it blue but my friend pointed out how it blended in with the background a bit so I change it to red to help it pop out a bit more. 
+    - *Evaluate:*
+    The final form of this prototype consisted of a very simple splash screen with a title and two very simple buttons, which all work perfectly. 
+ - **Prototype 3**
+    - *Prototype:*
+    ![alt text](image-4.png)
+    My final prototype was the entire game. During the creation of the game I experienced many problems. One of these problems included the inconsitency of the sprites movement during testing and builidng and running it. For some reason, which I don't know why, when testing the game and playing it, the movement is much faster than when I build it and run it, which was very irritating because there are two different versions of the characters movement, which made it very hard to keep tabs on which levels or obstacles worked and which ones didn't. However, I worked my way around this by simply just speeding up the speed, which made the testing of the character much faster, but after building and running it, the game worked just fine. Regarding the aesthetics, I feel as though I did a good job at making it look good as it depicts the settings in the book quite well, and does a good job in the story telling of the book. 
+    - *Test:*
+    In order to test my game, I sent over my game, and they played it giving some feedback. This included how good the background was and how aesthetically pleasing it was. Moreover, they also liked the splashscreen design too. However, they thought there could've been 
+    - *Evaluate:*
+    My finished game consisted of 2 levels and a splashscreen, with functionaly mechanics like walking and jumping. The game was successfully demonstrates the narrative of my book, through devices such as the different levels describing the settings of the different chapters in the book, the objective to find the file, and to get over obstacles and avoid being gunned to death. 
+
+## Final Evaluation 
+
+Ultimately, my game does meet certain aspects of the functional and non functional requirements and does somewhat meets the intentions outlined in my design breif. 
+
+My game, regarding the functional and non functional requirements, fullfils most of the requirements. More specifically, the game does meet its purpose of providing a new way of enjoying the book through a different perspective, and does include some clues within the game that depicts how different problems were solved in the book. However, certain features like choosing which character to play or more development on the clues were not include in the game, which could hinder the story telling. Moreover, concerning performance, usablity, reliablity and security all meets the desired standard, more particularly, the transitions between levels were smooth and seamless. 
+
+The final product is also suitable for the desired audience, and also fullfills its purpose of depicting the events in The Tristan Betrayal, however, if certain features were added, like the clues feature as described in functional requirements, and the option to choose another character, it would make this experience much more enjoyable. 
+
+The game does not include anything that directly addresses relevant social, ethical and legal themes. Although the book is heavily associated with with World War 2, the game does not include any themes of such. The closet thing of that would be a gun, but the gun does not include anything that points out a paticular group. 
+
+I feel as though I have not managed my time very well. At the beginning of the task, I spent a lot of my time designing the sprite, and more time designing the tile sheet, which was obviously not very smart because most of my work during the holidays consisted of that. However, I feel as though my work during class was quite productive, as it did help set good milestones in my theory and I could recieve help from people and the teacher in class. Furthermore, I feel as though the trip to Tasmania did somewhat hinder my ability to manage my time well, because I did lose a week. However, that is not much of an excuse because the week I came back I completed much of the remaining work, which was more than half that was already done. 
+
+Gathering and recieving feedback was straightforward and easy, as most of the feedback I asked personally and I also requested them to be straightforward and harsh if neccessary. Most of the feedback I was able to implement into my final product, however some features like more levels or different game mechanics were unable to be put into the game. 
+
 
 
