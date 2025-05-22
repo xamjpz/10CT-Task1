@@ -98,7 +98,7 @@ The software I plan to use: Unity, Excalidraw and Piskel. I would use Unity to m
     
  - **Feedback**
     - 1:
-        - *Usability:* Navigation is pretty clear since its only two buttons with two different functions.
+        - *Usability:* Navigation is pretty clear since its only two buttons with two different functions. 
         - *Aesthetics:* The design was pretty simple, and since there are no colours it isn't the most aesthetically pleasing. Also it wasn't a very good drawing but it displays the main features.
         - *Functionality:* It meets the projects purpose of clicking to play or quit.
     - 2:
@@ -110,7 +110,7 @@ The software I plan to use: Unity, Excalidraw and Piskel. I would use Unity to m
         - *Aesthetics:* Again, the design was straightforward and the bare basics, however, it does include more icons like the guns as obstacles and the paper as the objective, which makes it slightly more aesthetically pleasing, but then again would it would look better with more colour and detail. 
         - *Functionality:* The level would also be functional with a clear goal which aligns with the projects purpose. 
  - **Feedback Evaluation**
-    - Considering the feedback that I have summarised above, something that I will definetly consider when making my actual project is to make sure that I add more detail and colour and other features that won't make it look so bland. I should also obviously add more to the levels but that is a given and I'd be doing that anyway. 
+    - Considering the feedback that I have summarised above, something that I will definetly consider when making my actual project is to make sure that I add more detail and colour and other features that won't make it look so bland. I should also obviously add more to the levels but that is a given and I'd be doing that anyway. I did not receive an individual out of 10 score for each usability, aesthetics and functionality, but i did recieve and overall out of 10 for each wireframe, with an average of 5/10, which is largely due to the fact that it was very basic, which I would need to improve on, but was straightforward and easy to understand, which is what I aim to keep in my final product. 
  ## Producing and Implementing and Testing and Evaluating
 
  - **Ongoing Evaluation**
