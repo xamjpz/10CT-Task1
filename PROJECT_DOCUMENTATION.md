@@ -87,17 +87,30 @@ The software I plan to use: Unity, Excalidraw and Piskel. I would use Unity to m
 
  | Software Option | Plus | Minus | Implication |
  | -- | -- | -- | -- |
- | Figma | -- | -- | -- |
- | Adobe XD | -- | -- | -- |
- | Unity Game Design | -- | -- | -- |
+ | Figma | Figma has many features that make it much better to use, as it makes the user experience much easier and enjoyable. There are a variety of things that you can personalize and adjust to make the user experience better. This includes different formatting options like buttons and fonts.  | Figma is very difficult and annoying to use, as a lot of it is very technical and precise, and a lot of the things you need to change by hand, which can be very tedious to do.  | I probably won't be using Figma for my task, as Figma doesn't really depict the plot and the story of my book in the way I would like when done through a website.  |
+ | Adobe XD | Adobe XD has a much more simple and easier user software to use. Everything is much easier to learn and I feel as though I can make a somewhat decent website and user experience using it because its simplicity makes me confident in my abilities.  | Adobe XD doesn't have as many advance features compared to other softwares like Figma. Although it is very easy to use, it is slightly more limited in its features.  | Again, I don't think I'll be using Adobe XD either, because regarding my book, I don't think I'll be able to effectively depict the storyline of the book.  |
+ | Unity Game Design | Unity Game Design allows me to have so much more creative freedom to create a user experience suited for users to enjoy and discover the story of the book for themselves. As done through a video game, Unity Game Design also allows users to follow the individual stories of characters from their point of view, which is a unique feature that websites lack. | Unity Game Design is arguably the hardest software to make a user experience. The software is understandable, however it is very advanced and will require knowledge of coding to use. Using Unity is also time consuming. The more complicated the features of the game, the harder it is to make, and the more time it takes to create.  | I will probably use Unity Game Design because it aligns with my goals the most. One feature that Unity Game Design has over the others is that it allows the user to experience something similar to what the character of the book experienced in the moment. Meaning, if there is a problem that the character experienced the user will experience it in one form and another.  |
 
  - **Wireframes**
+    - 1: ![alt text](IMG_3991.jpeg)
+    - 2:![alt text](IMG_3992.jpeg)
+    - 3: ![alt text](IMG_3993.jpeg)
+    
  - **Feedback**
-    - *Usability*
-    - *Aesthetics*
-    - *Functionality*
+    - 1:
+        - *Usability:* Navigation is pretty clear since its only two buttons with two different functions.
+        - *Aesthetics:* The design was pretty simple, and since there are no colours it isn't the most aesthetically pleasing. Also it wasn't a very good drawing but it displays the main features.
+        - *Functionality:* It meets the projects purpose of clicking to play or quit.
+    - 2:
+        - *Usability:* Navigation is somewhat clear as you can infer on where to go because there is only a staircase upwards, but it's only a small portion of a level.
+        - *Aesthetics:* Again, the design was pretty simple, it was just the bare necessary basics, however with the introduction of colour and more detail it would be very aesthetically pleasing. 
+        - *Functionality:* The level would be functional which meets the projects purpose. 
+    - 3:
+        - *Usability:* Similarly, navigation is also pretty clear because it shows obstacles and it shows the objective. 
+        - *Aesthetics:* Again, the design was straightforward and the bare basics, however, it does include more icons like the guns as obstacles and the paper as the objective, which makes it slightly more aesthetically pleasing, but then again would it would look better with more colour and detail. 
+        - *Functionality:* The level would also be functional with a clear goal which aligns with the projects purpose. 
  - **Feedback Evaluation**
-
+    - Considering the feedback that I have summarised above, something that I will definetly consider when making my actual project is to make sure that I add more detail and colour and other features that won't make it look so bland. I should also obviously add more to the levels but that is a given and I'd be doing that anyway. 
  ## Producing and Implementing and Testing and Evaluating
 
  - **Ongoing Evaluation**
